@@ -1,7 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-
-![Simple Clean Professional Black and White Monochrome Tech Blockchain Video Intro](https://github.com/user-attachments/assets/04094b32-b70c-4534-96ba-a3e42cc3c38a)
-
+![MasterHead](https://github-production-user-asset-6210df.s3.amazonaws.com/71514888/358620674-9a3706d1-ce9f-407f-843c-eb1c9218bc21.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240816%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240816T144452Z&X-Amz-Expires=300&X-Amz-Signature=427552f19bad856ae289d71c53fdb4a4064ed62dd8f27425c76f8180d30e6097&X-Amz-SignedHeaders=host&actor_id=71514888&key_id=0&repo_id=841134886)
 
 
 <h1 align="center">Hi 👋, I'm Rafiul Islam</h1>

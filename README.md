@@ -35,3 +35,7 @@ https://github.com/rafiulislam89/rafiulislam89/blob/main/rafi%20trans.gif?raw=tr
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafiulislam89&show_icons=true&locale=en" alt="rafiulislam89" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafiulislam89&" alt="rafiulislam89" /></p>
+
+## Watch a snake eating my contribution graph :
+![github contribution grid snake animation](https://raw.githubusercontent.com/kinshuk-code-1729/kinshuk-code-1729/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/kinshuk-code-1729/kinshuk-code-1729/output/github-contribution-grid-snake.svg#gh-light-mode-only)

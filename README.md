@@ -13,7 +13,7 @@ I'm an indie full-stack developer , crafting my digital universe one line of cod
 
 From the first spark of an idea to the final flourish of a solution, I build every project from the ground up, ensuring that each step—whether in code or content creation—is meticulously crafted. My journey is a continuous dance between planning, designing, and solving real-life challenges through the power of code.
 
-In the same way, I shape my video content, transforming raw ideas into polished artistic expressions. Every piece I create is a testament to my passion for innovation and my commitment to bringing digital dreams to life.
+In the same way, I shape my skills, transforming raw ideas into polished artistic expressions. Every piece I create is a testament to my passion for innovation and my commitment to bringing digital dreams to life.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafiulislam89&label=Profile%20views&color=0e75b6&style=flat" alt="rafiulislam89" /> </p>
 

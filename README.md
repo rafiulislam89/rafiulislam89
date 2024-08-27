@@ -19,6 +19,8 @@ In the same way, I shape my skills, transforming raw ideas into polished artisti
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<div align="center"> <p><img src="https://profile-counter.glitch.me/{RafiulIslam}/count.svg" alt="RafiulIslam :: Visitor's Count" /></p> </div>
+
 - 🔭 I’m currently working on a project. **Niramoy**
 
 - 🌱 I’m currently learning **Flutter and Laravel**

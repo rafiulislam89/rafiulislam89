@@ -16,12 +16,13 @@ Explore my portfolio to see my projects, and connect with me on LinkedIn for upd
 🚀 I'm on a mission to build my version of the digital world, step by step. From planning and designing to solving real-life problems with code, 
 I take pride in creating projects from the ground up. Let's connect and explore how we can collaborate to make technology work for us!
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafiulislam89&label=Profile%20views&color=0e75b6&style=flat" alt="rafiulislam89" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafiulislam89&label=Profile%20views&color=0e75b6&style=flat" alt="rafiulislam89" /> </p>
 
 - 🔭 I’m currently working on a project. **Niramoy**
 

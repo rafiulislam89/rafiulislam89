@@ -7,14 +7,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/rafiulislam89/rafiulislam89/blob/2383a17a59c10dcfd8f4898b9bb35954be8831c9/IMG_2548.gif" />
 
-Greetings, I'm Rafiul Islam. I completed my Bachelor of Science in Computer Science and Engineering (CSE) with a major in Software Engineering from <a href="https://www.uiu.ac.bd/">United International University</a>, Dhaka, Bangladesh. I enjoy building software, solving tech problems, and creating user-friendly solutions.
+Greetings! I’m Rafiul Islam, a passionate software engineer with a Bachelor of Science in Computer Science and Engineering (CSE) from <a href="https://www.uiu.ac.bd/">United International University</a> in Dhaka, Bangladesh, where I specialized in Software Engineering. I love crafting software, tackling tech challenges, and building solutions that are both practical and user-friendly.
 
-Explore my portfolio to see my projects, and connect with me on LinkedIn for updates!
+Feel free to check out my portfolio to see what I’ve been working on, and let’s connect on LinkedIn to stay in touch!
 
-
-
-🚀 I'm on a mission to build my version of the digital world, step by step. From planning and designing to solving real-life problems with code, 
-I take pride in creating projects from the ground up. Let's connect and explore how we can collaborate to make technology work for us!
+🚀 I’m driven by a goal to shape my own corner of the digital world, one project at a time. Whether it’s brainstorming ideas, designing systems, or coding solutions to real-world problems, I take pride in bringing my creations to life from scratch. Let’s chat about how we can team up and use technology to make a difference!
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)

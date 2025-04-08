@@ -24,7 +24,7 @@ I take pride in creating projects from the ground up. Let's connect and explore 
 
 - 🔭 I’m currently working on a project. **Niramoy**
 
-- 🌱 I’m currently learning **Flutter and Laravel**
+- 🌱 I’m currently learning **Flutter and Node.js**
 
 - 📫 How to reach me **rafiulislamshanto2@gmail.com**
 

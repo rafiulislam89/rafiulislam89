@@ -1,7 +1,7 @@
 
 # 🏄‍♂️ Rafiul Islam
 
-**`CSE graduate  (Developer/Software Engineer)`**
+**`CSE graduate  (Software Engineer)`**
 
 
 

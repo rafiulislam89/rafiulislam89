@@ -79,10 +79,6 @@ I take pride in creating projects from the ground up. Let's connect and explore 
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafiulislam89&show_icons=true&locale=en&layout=compact" alt="rafiulislam89" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafiulislam89&show_icons=true&locale=en" alt="rafiulislam89" /></p>
-
 
 
 ## Watch a snake eating my contribution graph :

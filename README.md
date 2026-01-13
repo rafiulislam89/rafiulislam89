@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/rafiulislam89/rafiulislam89/blob/2383a17a59c10dcfd8f4898b9bb35954be8831c9/IMG_2548.gif" />
 
-Greetings, I'm Rafiul Islam. I completed my Bachelor of Science in Computer Science and Engineering (CSE) with a major in Software Engineering from <a href="https://www.uiu.ac.bd/">United International University</a>, Dhaka, Bangladesh. I enjoy building software, solving tech problems, and creating user-friendly solutions.
+Greetings, I'm Rafiul Islam. I completed my Bachelor of Science in Computer Science and Engineering (CSE) with a major in Software Engineering from <a href="https://bup.edu.bd/">Bangladesh University of Professionals</a>, Dhaka, Bangladesh and currently doing masters at <a href="https://www.uiu.ac.bd/">United International University</a> . I enjoy building software, solving tech problems, and creating user-friendly solutions.
 
 Explore my portfolio to see my projects, and connect with me on LinkedIn for updates!
 
